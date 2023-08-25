@@ -4,6 +4,7 @@
  */
 package multiPOO;
 import java.util.Scanner;
+//ejercicio 4 de seguimiento
 public class POO4 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

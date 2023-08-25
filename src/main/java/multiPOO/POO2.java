@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package multiPOO;
-
+//ejercicio 2 de seguimiento
 public class POO2 {
     public static void main(String[] args) {
         double suma, x, y;

@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package multiPOO;
-
+//ejercicio 3 de seguimiento
 public class POO3 {
     public static void main(String[] args){
         int s;//salario bruto

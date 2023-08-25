@@ -2,7 +2,7 @@ package multiPOO;
 import java.util.Scanner;
 public class POO1 {
     /*ejercicio uno del ejercicio de seguimiento
-    ejercicio numero 4 del libro de programacion logica
+    ejercicio numero 4 del libro de programacion logica.
     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
